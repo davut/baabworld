@@ -21,7 +21,7 @@ export default function Layout({ children }) {
         <div className="flex text-gray-900 space-x-2 align-center justify-center text-center">
           <div>Made by</div>
           <span className="pt-1">
-            <a href="https://owlapps.co">
+            <a target="_blank" href="https://owlapps.co">
               <svg width="24" height="15" viewBox="0 0 24 15" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <path d="M0 5.41118C0 2.42267 2.42267 0 5.41118 0V0C8.39969 0 10.8224 2.4352 10.8224 5.42371V5.42371C10.8224 10.4354 6.75955 14.5193 1.74782 14.5193H0V5.41118Z" fill="#18181B" />
                 <path d="M13.1777 5.41118C13.1777 2.42267 15.6004 0 18.5889 0V0C21.5774 0 24.0001 2.4352 24.0001 5.42371V5.42371C24.0001 10.4354 19.9373 14.5193 14.9256 14.5193H13.1777V5.41118Z" fill="#18181B" />
