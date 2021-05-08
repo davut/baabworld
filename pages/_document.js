@@ -10,7 +10,6 @@ class MyDocument extends Document {
     return (
       <Html lang="en">
         <Head>
-        <title>Baab World</title>
         <meta name="description" content="Brand New Sneakers that you could find in a perfect condition and for a very suitable price!" />
         <link rel="icon" href="/favicon.ico" />
         <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"/>
